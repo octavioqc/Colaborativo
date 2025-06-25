@@ -2,6 +2,9 @@
 
 Repositorio Colaborativo (Practica 6)
 
+Jose Luis  aprendiendo 
+
+
 Villalvazo colaboró en este repositorio.
 
 
